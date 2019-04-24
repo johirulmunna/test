@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jena lib 2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pellet-jena"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pellet"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/org.semanticweb.owl.owlapi-3.4.4.jar/org.semanticweb.owl.owlapi-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/owlapi-3.0.0-src.jar/owlapi-3.0.0-src.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/owlapi-apibinding.jar/owlapi-apibinding.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/pellet-core.jar/pellet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/pellet-jena-2.3.2-sources.jar/pellet-jena-2.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/pellet-owlapiv3.jar/pellet-owlapiv3.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/pellet-owlapiv3.jar (1)/pellet-owlapiv3.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/pellet-owlapiv3-src.jar/pellet-owlapiv3-src.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/pellet-core-src.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/New Folder/pellet-rules.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/laptop backup Dec2018/back up dextop dec2018/Desktop things/workspace/RPDiv/WebContent/WEB-INF/lib/javaee-api-7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenov/.m2/repository/com/github/ansell/owlapi/owlapi-api/3.4.4.3-ansell/owlapi-api-3.4.4.3-ansell.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.github.ansell.owlapi"/>
+			<attribute name="maven.artifactId" value="owlapi-api"/>
+			<attribute name="maven.version" value="3.4.4.3-ansell"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lenov/.m2/repository/com/github/ansell/owlapi/owlapi-impl/3.4.4.3-ansell/owlapi-impl-3.4.4.3-ansell.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.github.ansell.owlapi"/>
+			<attribute name="maven.artifactId" value="owlapi-impl"/>
+			<attribute name="maven.version" value="3.4.4.3-ansell"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lenov/.m2/repository/com/github/ansell/pellet/pellet-jena/2.3.4-ansell/pellet-jena-2.3.4-ansell.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.github.ansell.pellet"/>
+			<attribute name="maven.artifactId" value="pellet-jena"/>
+			<attribute name="maven.version" value="2.3.4-ansell"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
